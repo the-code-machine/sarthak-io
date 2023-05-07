@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**sarthak-io/sarthak-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![App Screenshot](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)
+
+
+## 🚀 About Me
+# Hi, I'm Sarthak!
+
+I'm a software engineer with a passion for building things that make people's lives easier. My areas of expertise include backend development, data modeling, and system architecture. I'm also proficient in multiple programming languages, including Python, Java, and JavaScript.
+
+
+
+
+
