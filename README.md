@@ -2,7 +2,7 @@
 
 
 
-![App Screenshot](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)
+
 
 
 ## 🚀 About Me
